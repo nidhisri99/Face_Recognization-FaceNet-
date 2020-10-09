@@ -35,9 +35,9 @@ python face_recognition.py
 After running your face_recognition.py it should look like this.
 ![Alt text](git_images/face_recognition.png?raw=true "Title")
 
-Examples
-If the face is found in the images folder.
+Examples</br>
+If the face is found in the images folder.</br>
 ![Alt text](git_images/face1.png?raw=true "Title")
-
-If face is not found
+</br>
+If face is not found</br>
 ![Alt text](git_images/no_match.png?raw=true "Title")
