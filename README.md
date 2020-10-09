@@ -23,5 +23,10 @@ You can install Conda for python which resolves all the dependencies for machine
 
 ### Procedure
 1. Download the code or git clone https://github.com/nidhisri99/Face_Recognization-FaceNet-.git.
-2. Add your images to the "images" folder.
+2. Add your images to the "images" folder. (Only one image is enough)
 3. Run face_recognition.py.
+
+After running your face_recognition.py it should look like this.
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+Examples
