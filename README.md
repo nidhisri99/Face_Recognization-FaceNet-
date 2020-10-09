@@ -39,5 +39,7 @@ Examples</br>
 If the face is found in the images folder.</br>
 ![Alt text](git_images/face1.png?raw=true "Title")
 </br>
-If face is not found</br>
+</br>
+If face is not found.</br>
+</br>
 ![Alt text](git_images/no_match.png?raw=true "Title")
