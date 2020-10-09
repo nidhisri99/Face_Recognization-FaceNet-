@@ -1,6 +1,6 @@
 # Face_Recognization-FaceNet-
 
-This is simple real Time face recognization using FaceNet.
+This is simple real Time face recognization using FaceNet. FaceNet provides a unified embedding for face recognition, verification and clustering tasks. It maps each face image into a euclidean space such that the distances in that space correspond to face similarity, i.e. an image of person A will be placed closer to all the other images of person A as compared to images of any other person present in the dataset.</br>
 Here in this face recognition system, we are able to recognize a person’s identity by just feeding one picture of that person’s face to the system. And, in case, it fails to recognize the picture, it means that this person’s image is not stored in the system’s database.</br>
     To solve this problem, we cannot use only a convolutional neural network for two reasons:</br>
     1) CNN doesn’t work on a small training set. </br>
@@ -8,7 +8,7 @@ Here in this face recognition system, we are able to recognize a person’s iden
 However, we can use Siamese neural network for face recognition.
 
 <h2>Siamese neural network</h2>
-  Siamese neural network has the objective to find how similar two comparable things are (e.g. signature verification, face recognition..). This network has two identical subnetworks, which both have the same parameters and weights.
+  Siamese neural network has the objective to find how similar two comparable things are (e.g. signature verification, face recognition..). This network has two identical subnetworks, which both have the same parameters and weights. 
   
   ![alt text](https://miro.medium.com/max/700/1*ZQjqmkyFyAQW34KIA26uwQ.png)
   
