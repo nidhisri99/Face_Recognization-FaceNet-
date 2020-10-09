@@ -14,7 +14,9 @@ However, we can use Siamese neural network for face recognition.
   
   ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning. OR You can use CMD or terminals.
-##### pip install requirements.txt
+```
+pip install requirements.txt
+```
 
 ### Download the pretrained weights
 * Download [this](https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view) pretrained Facenet model and copy to model folder.
@@ -24,9 +26,15 @@ You can install Conda for python which resolves all the dependencies for machine
 ### Procedure
 1. Download the code or git clone https://github.com/nidhisri99/Face_Recognization-FaceNet-.git.
 2. Add your images to the "images" folder. (Only one image is enough)
-3. Run face_recognition.py.
+3. Run face_recognition.py. </br>
+To run use command.
+```
+python face_recognition.py
+```
 
 After running your face_recognition.py it should look like this.
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](git_images/face_recognition.png?raw=true "Title")
 
 Examples
+
+![Alt text](git_images/face1.png?raw=true "Title")
